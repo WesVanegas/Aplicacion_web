@@ -2,3 +2,9 @@ h1 {
     color: blue;
     font-family: 'Lobster';
 }
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
