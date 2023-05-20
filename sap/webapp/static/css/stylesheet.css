@@ -8,3 +8,7 @@ h1 {
     align-items: center;
     justify-content: center;
 }
+
+.carousel, .carousel-inner > .item > img {
+height: 100px;
+}
