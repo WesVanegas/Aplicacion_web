@@ -20,3 +20,7 @@ h1 {
     align-item: center;
     justify-content: center;
 }
+
+.container-bg {
+    background: #212529;
+}
