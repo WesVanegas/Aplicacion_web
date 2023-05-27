@@ -23,5 +23,6 @@ urlpatterns = [
     path('', index),
     path('registrar/', persona_register),
     path('lista/', persona_list),
-    path('bandas', bandas)
+    path('bandas/', bandas),
+    path('galeria/', galeria)
 ]

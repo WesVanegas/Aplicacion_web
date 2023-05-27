@@ -27,3 +27,6 @@ def persona_register(request):
 
 def bandas(request):
     return render(request, 'bandas.html')
+
+def galeria(request):
+    return render(request, 'galeria.html')
